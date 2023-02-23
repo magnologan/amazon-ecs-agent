@@ -30,8 +30,8 @@ require (
 	github.com/opencontainers/runc v1.0.0-rc3.0.20170530161907-a6906d5a531a // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b // indirect
-	golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
+	golang.org/x/text v0.3.8 // indirect
 )
 
 replace github.com/coreos/go-systemd => github.com/coreos/go-systemd/v22 v22.0.0
