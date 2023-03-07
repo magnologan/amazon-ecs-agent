@@ -111,7 +111,7 @@ github.com/docker/go-connections/sockets
 ## explicit
 github.com/docker/go-plugins-helpers/sdk
 github.com/docker/go-plugins-helpers/volume
-# github.com/docker/go-units v0.3.2
+# github.com/docker/go-units v0.4.0
 ## explicit
 github.com/docker/go-units
 # github.com/fsouza/go-dockerclient v0.0.0-20170830181106-98edf3edfae6
@@ -132,8 +132,8 @@ github.com/opencontainers/go-digest
 ## explicit
 github.com/opencontainers/image-spec/specs-go
 github.com/opencontainers/image-spec/specs-go/v1
-# github.com/opencontainers/runc v1.0.0-rc3.0.20170530161907-a6906d5a531a
-## explicit
+# github.com/opencontainers/runc v1.1.2
+## explicit; go 1.16
 github.com/opencontainers/runc/libcontainer/system
 github.com/opencontainers/runc/libcontainer/user
 # github.com/pkg/errors v0.9.1 => github.com/pkg/errors v0.8.1-0.20170505043639-c605e284fe17
@@ -146,12 +146,12 @@ github.com/pmezard/go-difflib/difflib
 ## explicit
 github.com/stretchr/testify/assert
 github.com/stretchr/testify/require
-# golang.org/x/net v0.0.0-20201110031124-69a78807bb2b => golang.org/x/net v0.0.0-20170529214944-3da985ce5951
+# golang.org/x/net v0.0.0-20201224014010-6772e930b67b => golang.org/x/net v0.0.0-20170529214944-3da985ce5951
 ## explicit
 golang.org/x/net/context
 golang.org/x/net/context/ctxhttp
 golang.org/x/net/proxy
-# golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f => golang.org/x/sys v0.0.0-20170529185110-b90f89a1e7a9
+# golang.org/x/sys v0.0.0-20211116061358-0a5406a5449c => golang.org/x/sys v0.0.0-20170529185110-b90f89a1e7a9
 ## explicit
 golang.org/x/sys/unix
 golang.org/x/sys/windows

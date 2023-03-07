@@ -22,15 +22,15 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/docker/docker v1.4.2-0.20170530175538-4f55e390c4e5 // indirect
 	github.com/docker/go-connections v0.2.2-0.20170331145122-e15c02316c12 // indirect
-	github.com/docker/go-units v0.3.2 // indirect
+	github.com/docker/go-units v0.4.0 // indirect
 	github.com/google/go-cmp v0.5.7 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0-rc0.0.20170510163354-eaa60544f31c // indirect
 	github.com/opencontainers/image-spec v1.0.0-rc6.0.20170525204040-4038d4391fe9 // indirect
-	github.com/opencontainers/runc v1.0.0-rc3.0.20170530161907-a6906d5a531a // indirect
+	github.com/opencontainers/runc v1.1.2 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b // indirect
-	golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f // indirect
+	golang.org/x/net v0.0.0-20201224014010-6772e930b67b // indirect
+	golang.org/x/sys v0.0.0-20211116061358-0a5406a5449c // indirect
 	golang.org/x/text v0.3.7 // indirect
 )
 
