@@ -1,4 +1,6 @@
-// +build linux,arm
+//go:build linux && (386 || arm)
+// +build linux
+// +build 386 arm
 
 package system
 
